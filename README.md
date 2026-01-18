@@ -19,7 +19,8 @@
   <img src="https://cdn.simpleicons.org/postgresql" width="40" height="40">
   <img src="https://cdn.simpleicons.org/docker" width="40" height="40">
   <img src="https://cdn.simpleicons.org/kubernetes" width="40" height="40">
-  <img src="https://cdn.simpleicons.org/aws" width="40" height="40">
+  <img src="https://cdn.simpleicons.org/aws" alt="AWS" width="40" height="40">
+
    
 </p>
 
