@@ -18,7 +18,9 @@
   <img src="https://cdn.simpleicons.org/terraform" width="40" height="40">
   <img src="https://cdn.simpleicons.org/postgresql" width="40" height="40">
   <img src="https://cdn.simpleicons.org/docker" width="40" height="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>   
+  <img src="https://cdn.simpleicons.org/kubernetes" width="40" height="40">
+  <img src="https://cdn.simpleicons.org/aws" width="40" height="40">
+   
 </p>
 
 ---
