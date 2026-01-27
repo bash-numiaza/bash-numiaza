@@ -1,5 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=200&section=header"/>
 
+<h1 align="center">Hello, I'm Julia Tomine</h1>
+
+<p align="center">
+  <i>Software Engineer • DevOps • Fullstack</i>
+</p>
+<hr>
+
 <div align="center">
 
 🎓 Fatec - Systems Analysis and Development (2025 - 2027)  
