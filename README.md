@@ -3,7 +3,7 @@
 <h1 align="center">Hello, I'm Julia Tomine</h1>
 
 <p align="center">
-  <i>Software Engineer • DevOps • Fullstack</i>
+  <i>Software Engineer • DevOps • Backend</i>
 </p>
 <hr>
 
